@@ -1,0 +1,8 @@
+{
+  "name": "Advanced Tracking Reporter",
+  "description": "An application that provides a detailed report of device, location, and camera information for diagnostic and tracking purposes.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
